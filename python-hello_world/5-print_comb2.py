@@ -1,9 +1,9 @@
 number = ""
 for i in range(0,100):
    if i < 10:
-      number += f"0{i}, "
+      number += "0{i}, ".format(i=i)
    elif i < 99:
-      number += f"{i}, "
+      number += "{i}, ".format(i=i)
    else:
-      number += str(i)
+      number += "{i}".format(i=str(i))
 print(number)
