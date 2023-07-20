@@ -14,22 +14,3 @@ else:
            print("Last digit of {m} is {lastDigit} and is 0".format(m = m, lastDigit=int(lastDigit)))
    else:
        print("Last digit of {m} is {lastDigit} and is less than 6 and not 0".format(m = m, lastDigit=int(lastDigit)))
-      
-          
-      
-   
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
