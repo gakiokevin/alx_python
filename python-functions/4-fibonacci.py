@@ -8,4 +8,3 @@ def fibonacci_sequence(n):
          sum.append(a)
          a, b = b, a+b
       return sum
-print(fibonacci_sequence(0))
