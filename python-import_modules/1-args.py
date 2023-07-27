@@ -5,3 +5,5 @@ def listarguments(*args):
          print('{} : {}'.format(index +1,arg))
    else :
       print('{} arguments.'.format(0))
+if __name__ == "__main__":
+  listarguments()
