@@ -5,3 +5,5 @@
    A program that prints the number of and the list of its arguments.
 - ### 2. Everything can be imported
    A program that imports the variable a from the file variable_load_2.py and prints its value.
+- ### 3. Integers division with debug
+   A  function that divides 2 integers and prints the result.
