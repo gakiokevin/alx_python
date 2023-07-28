@@ -7,3 +7,5 @@
    A program that imports the variable a from the file variable_load_2.py and prints its value.
 - ### 3. Integers division with debug
    A  function that divides 2 integers and prints the result.
+- ### 4. Raise exception
+   A function that raises a type exception.
