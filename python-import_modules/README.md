@@ -9,3 +9,5 @@
    A  function that divides 2 integers and prints the result.
 - ### 4. Raise exception
    A function that raises a type exception.
+- ### 5. Raise a message
+  A function that raises a name exception with a message.
