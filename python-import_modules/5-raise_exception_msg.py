@@ -1,2 +1,2 @@
 def raise_exception_msg(message=""):
-   raise NameError('{} is fun'.format(message))
+   raise NameError('{} '.format(message))
