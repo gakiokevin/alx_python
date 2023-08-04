@@ -6,3 +6,5 @@
    A  function that replaces or adds key/value in a dictionary.
  - ### 4. Multiply by using map
    A function that returns a list with all values multiplied by a number without using any loops.
+ - ### 3. Best score
+   A function that returns a key with the biggest integer value.
