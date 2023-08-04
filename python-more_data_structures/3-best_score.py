@@ -6,7 +6,5 @@ def best_score(a_dictionary):
       for key,value in a_dictionary.items():
          if value == max_value :
             return 'Best score: {}'.format(key)
-         else:
-            return 'Best score: {}'.format(None)
    except ValueError:
       return None
